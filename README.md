@@ -1,6 +1,6 @@
 # Ersin Cem Kök
 
-**Computer Engineer · Full-Stack & Mobile Developer**
+**Computer Engineer | Flutter · Spring Boot · AI**
 
 I build cross-platform mobile apps with Flutter and backend services with Node.js. Currently exploring IoT, digital image processing, and AI-powered desktop apps with Rust/Tauri.
 
